@@ -1,7 +1,6 @@
 # Python_NETFLIX
-# Data description
-This data set include information on movies and tv-shows added on netflix from 2008 to 2021;
-Analysis objective on a NETFLIX Dataset from Kaggle
+This data set include information on movies and tv-shows added on netflix from 2008 to 2021.I downloaded the data from Kaggle.
+# Analysis objective on a NETFLIX Dataset from Kaggle
 - Netflix got more movies or TV shows  
 - Number of films and television programs added to the platform yearly
 - What is the annual average number of movies and tv shows added to the platform  
