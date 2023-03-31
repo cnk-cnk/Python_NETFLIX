@@ -16,9 +16,6 @@ This data set include information on movies and tv-shows added on netflix from 2
 - Answering the business task listed above
 # Findings
 - We observe that we have more Movies than TV shows added on NETFLIX
-Well, we can't give a conclusion because we are doing exploratory analysis
-In order to confidently answer this question we have to do some statistical test like
-hypothesis testing....
 
 - We have a lot of variations throughout the years. We first have very few and constant
 addings from [2008 - 2014] for Movies, a sudden rise from [2014 - 2018] then a fall from
@@ -43,7 +40,7 @@ has a duration > 95 min
 The bottom 25 % of movies has a duration < 85 min and the upper 25 % of movies
 have a duration >115 min
 There is a lot of variation in the data, the median does not cut exactly at half of the
-boxploy, the data is skewed to the right... thereby dragging the mean value to a higher
+boxplot, the data is skewed to the right... thereby dragging the mean value to a higher
 duration
 We also have outliers represented by extreme congested circles, these are Movies that
 have duration < 45 min and > 150 min
@@ -57,8 +54,8 @@ There is a lot of variation in the duration of TV shows as compared to Movies, i
 highly skewed to right
 
 - Generally, we have more videos(movies & tv-shows) in the ratings TV-MA, TV-14, TVPG, R which are for mature, adult audiences and may be unsuitable for children under 17
-For a young audience we have: PG-13 more in movies than tv-shows(very few), TV-Y
-and TV-G are more in tv-shows than movies
+For a young audience we have: PG-13 more in movies than tv-shows(very few), 
+TV-Y and TV-G are more in tv-shows than movies
 We have few movies and tv-shows for the ratings V-Y7-FV, NR,NC-17 and PG-13
 
 - We have more movies produced in the United states, followed by India, Canada, etc.
