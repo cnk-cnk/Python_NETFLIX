@@ -18,8 +18,8 @@ This data set include information on movies and tv-shows added on netflix from 2
 - We observe that we have more Movies than TV shows added on NETFLIX
 
 - We have a lot of variations throughout the years. We first have very few and constant
-addings from [2008 - 2014] for Movies, a sudden rise from [2014 - 2018] then a fall from
-[2018 - 2021]
+addings from **[2008 - 2014]** for Movies, a sudden rise from **[2014 - 2018]** then a fall from
+**[2018 - 2021]**
 For TV shows, we have addings in 2008, then no addings up to 2013. From 2013 we
 experience a rise and a fall from 2019
 More to that we have 10 records of TV-shows, where we don't have a date added value
