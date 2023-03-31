@@ -24,7 +24,7 @@ For TV shows, we have addings in 2008, then no addings up to 2013. From 2013 we
 experience a rise and a fall from 2019
 More to that we have 10 records of TV-shows, where we don't have a date added value
 
-- On average (yearly) we have 267 TV shows and 438 Movies added on NETFLIX from our
+- On average (yearly) we have **267 TV shows** and **438 Movies** added on NETFLIX from our
 sample data (dataset)
 From the adding trend, there is alot of variation throughout the years, the yearly
 average varies a lot, we can't give a firm conclusion, that each year we will fairly expect
